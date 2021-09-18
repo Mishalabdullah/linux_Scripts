@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 #my apps that need to be installed
 sudo apt install vlc gnome-tweaks snapd 
  sudo snap install discord simplenote notion-snap  mailspring 
