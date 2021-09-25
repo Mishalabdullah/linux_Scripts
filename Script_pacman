@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo snap install chromium  
+sudo snap install spotify
+sudo pacman -S install vlc gnome-tweaks snapd 
+sudo snap install discord simplenote notion-snap  mailspring 
+sudo sanp install --classic code
