@@ -16,7 +16,8 @@ sudo pacman -S tor
 echo"tor installed"
 sudo pacman -S gufw
 echo "firewall installed"
-
+sudo snap install xonotic
+echo"xonotic installed"
 # AUR packages
 mkdir programs
 git clone https://aur.archlinux.org/bleachbit-git.git
