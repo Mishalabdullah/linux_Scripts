@@ -6,8 +6,8 @@ sudo pacman -S atom
 echo "atom installed"
 sudo pacman -S veracrypt
 echo "veracrypt installed"
-sudo pacman -S bitwarden
-echo"bitwarden installed"
+sudo pacman -S keepassxc
+echo"keepassxc installed"
 sudo pacman -S signal-desktop
 echo "signal installed"
 sudo pacman -S nextcloud
