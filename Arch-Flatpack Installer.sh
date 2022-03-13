@@ -24,4 +24,3 @@ flatpak install flathub com.sublimetext.three
 flatpak install flathub com.simplenote.Simplenote
 flatpak install flathub com.getmailspring.Mailspring
 flatpak install flathub org.gnome.DejaDup
-flatpak install flathub org.gnome.Lollypop
