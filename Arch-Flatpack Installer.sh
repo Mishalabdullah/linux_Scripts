@@ -1,4 +1,4 @@
-flatpak install flathub org.mozilla.firefox
+flatpak install flathub io.gitlab.librewolf-community
 flatpak install flathub org.videolan.VLC
 flatpak install flathub com.discordapp.Discord
 flatpak install flathub com.github.micahflee.torbrowser-launcher
