@@ -15,7 +15,7 @@ flatpak install flathub io.github.Figma_Linux.figma_linux
 flatpak install flathub org.qbittorrent.qBittorrent
 flatpak install flathub io.github.seadve.Kooha
 flatpak install flathub io.mpv.Mpv
-flatpak install flathub org.gnu.emacs
+
 flatpak install flathub org.gimp.GIMP
 flatpak install flathub org.keepassxc.KeePassXC
 flatpak install flathub com.rafaelmardojai.Blanket
@@ -24,3 +24,4 @@ flatpak install flathub com.sublimetext.three
 flatpak install flathub com.simplenote.Simplenote
 flatpak install flathub com.getmailspring.Mailspring
 flatpak install flathub org.gnome.DejaDup
+flatpak install flathub com.github.artemanufrij.playmymusic
