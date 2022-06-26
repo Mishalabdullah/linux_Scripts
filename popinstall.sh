@@ -3,6 +3,7 @@ sudo apt install jupyter-notebook
 sudo apt install mpv
 sudo apt install keepassxe
 sudo apt install qbittorrent
+sudo apt install brave-browser
 
 flatpak install flathub md.obsidian.Obsidian
 flatpak install flathub com.nextcloud.desktopclient.nextcloud
