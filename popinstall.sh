@@ -13,4 +13,5 @@ flatpak install flathub io.posidon.Paper
 flatpak install flathub com.github.micahflee.torbrowser-launcher
 flatpak install flathub com.simplenote.Simplenote
 flatpak install flathub org.gimp.GIMP
+flatpak install flathub org.gustavoperedo.FontDownloader
 flatpak install flathub org.signal.Signal
