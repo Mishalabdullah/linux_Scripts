@@ -1,4 +1,5 @@
 #!/bin/bash
+# For configuring git in linux machine
 read -p "Enter you username for github:" NAME
 read -p "Enter you email for github:" EMAIL
 git config --global user.name "$NAME"
