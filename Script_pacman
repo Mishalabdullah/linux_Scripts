@@ -1,6 +1,12 @@
 #!/bin/bash
-sudo snap install chromium  
-sudo snap install spotify
-sudo pacman -S install vlc gnome-tweaks snapd 
-sudo snap install discord simplenote notion-snap  mailspring 
-sudo sanp install --classic code
+sudo pacman -S git &&
+sudo pacman -S python-pip &&
+sudo pacman -S vim &&  
+sudo pacman -S vlc mpv keepassxc  gedit && 
+flatpak install flathub md.obsidian.Obsidian && 
+flatpak install flathub org.signal.Signal &&
+flatpak install flathub com.simplenote.Simplenote &&
+flatpak install flathub org.xonotic.Xonotic &&
+flatpak install flathub org.gimp.GIMP &&
+flatpak install flathub org.gustavoperedo.FontDownloader &&
+flatpak install flathub org.telegram.desktop 
